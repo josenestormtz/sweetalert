@@ -5,3 +5,6 @@ En esta guía aprenderás cómo personalizar el texto del botón de confirmació
 
 ## [Mostrar mensaje de carga y éxito](https://github.com/josenestormtz/sweetalert/blob/f21fe2c20ac5f1e339fc8b7b5619a7a778fd526f/mensaje-carga-y-exito.md)
 En este tutorial aprenderás a mostrar una alerta de “procesando” con un ícono de carga mientras se ejecuta una acción (como enviar un formulario o llamar a una API), y a reemplazarla automáticamente por un mensaje de éxito cuando el proceso haya terminado, brindando una experiencia más profesional y fluida al usuario.
+
+## [Detectar cuándo el usuario cierra una](https://github.com/josenestormtz/sweetalert/blob/bcac29b9b5ef406576b77eefcf4423356de413d8/detectar-cierre-alerta.md)
+En este tutorial aprenderás cómo detectar cuándo el usuario cierra una alerta de SweetAlert2. Esto es útil para ejecutar acciones posteriores como limpiar formularios, redirigir o mostrar nuevos mensajes.
